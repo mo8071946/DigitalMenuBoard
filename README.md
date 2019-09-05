@@ -4,5 +4,7 @@ It's very simple project for Designing menus for any store, it allows it's user 
 
 Please find How.to.host.digital.menu.pdf file in release section to host in your machine. 
 
+Before download please star the project.
+
 #### How it looks?
 [Youtube vidoe url](https://www.youtube.com/watch?v=QfP0JaYCrfs&t=10s)
