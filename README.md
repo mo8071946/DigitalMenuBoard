@@ -9,4 +9,3 @@ Before download please star the project.
 #### How it looks?
 [Youtube vidoe url](https://www.youtube.com/watch?v=QfP0JaYCrfs&t=10s)
 
-####### Please at least do not forget to give star to this project if it works for you. 
